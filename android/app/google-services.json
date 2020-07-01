@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "161953569216",
+    "firebase_url": "https://fir-project-e8901.firebaseio.com",
+    "project_id": "fir-project-e8901",
+    "storage_bucket": "fir-project-e8901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161953569216:android:7d28de758f9cb3792e1025",
+        "android_client_info": {
+          "package_name": "com.groceryapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161953569216-3o5qc2aflpamed3ca8eqst285m5fss3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Npd3JmkEjD67zqbgM1HiH71W7fhdeII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161953569216-3o5qc2aflpamed3ca8eqst285m5fss3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161953569216:android:5026407432cd53fe2e1025",
+        "android_client_info": {
+          "package_name": "com.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161953569216-3o5qc2aflpamed3ca8eqst285m5fss3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Npd3JmkEjD67zqbgM1HiH71W7fhdeII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161953569216-3o5qc2aflpamed3ca8eqst285m5fss3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161953569216:android:79fc02809c2c1d4c2e1025",
+        "android_client_info": {
+          "package_name": "com.reactfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161953569216-3o5qc2aflpamed3ca8eqst285m5fss3e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Npd3JmkEjD67zqbgM1HiH71W7fhdeII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161953569216-3o5qc2aflpamed3ca8eqst285m5fss3e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
